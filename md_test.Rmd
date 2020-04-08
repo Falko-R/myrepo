@@ -3,7 +3,8 @@ title: "MD Testdokument"
 author: "Flk KC"
 date: "4/8/2020"
 output: 
-  github_document:
+  github_document
+    
 ---
 
 ```{r setup, include=FALSE}
